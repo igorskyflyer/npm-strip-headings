@@ -32,7 +32,7 @@
 	},
 	"homepage": "https://github.com/igorskyflyer/$3#readme",
 	"devDependencies": {
-		"@types/chai": "^4.3.1",
+		"@types/chai": "^4.3.4",
 		"@types/mocha": "^9.1.1",
 		"@types/node": "^12.17.0",
 		"chai": "^4.3.6",
