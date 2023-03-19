@@ -1,19 +1,16 @@
 {
-	"include": [
-		"src/**/*"
-	],
+	"include": ["src/**/*"],
 	"exclude": [
-		"node_modules/**/*"
+		"node_modules/**/*",
+		"test/**/*"
 	],
 	"compilerOptions": {
 		"target": "ES5",
-		"allowJs": true,
-		"checkJs": true,
 		"declaration": true,
-		"emitDeclarationOnly": true,
+		"outDir": "./dist",
 		"skipLibCheck": true,
 		"forceConsistentCasingInFileNames": true,
-		"declarationDir": "dist",
+		"declarationDir": "./dist",
 		"moduleResolution": "node",
 		"noEmitOnError": true,
 		"strict": true,
