@@ -1,7 +1,7 @@
 {
-	"name": "@igor.dvlpr/$1",
+	"name": "@igor.dvlpr/strip-headings",
 	"version": "1.0.0",
-	"description": "$2",
+	"description": "⛸ Strips Markdown headings!🏹",
 	"sideEffects": false,
 	"engines": {
 		"node": ">=16.0"
@@ -18,23 +18,32 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/igorskyflyer/$3.git"
+		"url": "git+https://github.com/igorskyflyer/npm-strip-headings.git"
 	},
 	"keywords": [
 		"igorskyflyer",
-		"igor.dvlpr"
+		"igor.dvlpr",
+		"strip",
+		"heading",
+		"header",
+		"html",
+		"markdown",
+		"md",
+		"code",
+		"remove",
+		"delete"
 	],
 	"author": "Igor Dimitrijević <admin@igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
 	"license": "MIT",
 	"funding": "https://ko-fi.com/igorskyflyer",
 	"bugs": {
-		"url": "https://github.com/igorskyflyer/$3/issues"
+		"url": "https://github.com/igorskyflyer/npm-strip-headings/issues"
 	},
-	"homepage": "https://github.com/igorskyflyer/$3#readme",
+	"homepage": "https://github.com/igorskyflyer/npm-strip-headings#readme",
 	"devDependencies": {
 		"@types/chai": "^4.3.4",
 		"@types/mocha": "^10.0.1",
-		"@types/node": "^12.17.0",
+		"@types/node": "^16.0.0",
 		"chai": "^4.3.7",
 		"mocha": "^10.2.0",
 		"ts-mocha": "^10.0.0",
