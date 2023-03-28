@@ -1,6 +1,6 @@
 # StripHeadings
 
-⛸ Strips Markdown headings!🏹
+⛸ Strips Markdown headings! 🏹
 
 <br>
 
