@@ -1,6 +1,6 @@
 # StripHeadings
 
-⛸ Strips Markdown headings!🏹
+⛸ Strips Markdown headings! 🏹
 
 <br>
 
@@ -29,8 +29,6 @@ _Strips Markdown headings completely._
 
 `value: string` - the Markdown string to process.
 
-<br>
-
 `returns` - the processed string.
 
 <br>
@@ -42,7 +40,5 @@ function stripHeadingsCode(value: string): string
 _Strips only the Markdown code while keeping the heading text._
 
 `value: string` - the Markdown string to process.
-
-<br>
 
 `returns` - the processed string.
