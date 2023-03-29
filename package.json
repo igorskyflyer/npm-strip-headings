@@ -1,6 +1,6 @@
 {
 	"name": "@igor.dvlpr/strip-headings",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "⛸ Strips Markdown headings!🏹",
 	"sideEffects": false,
 	"engines": {
